@@ -16,7 +16,9 @@ public class App2 {
         System.out.pringln("rrrrr");
         System.out.pringln("22222");
         System.out.pringln("4444444");
-         System.out.pringln("555555");
+
+        System.out.pringln("555555");
+
 
         
     }
