@@ -14,6 +14,7 @@ public class App2 {
         System.out.println("걸린시간 = " + resultTime);
         System.out.println("결과값 = " + result);
         System.out.pringln("rrrrr");
+        System.out.pringln("22222");
         
     }
 
